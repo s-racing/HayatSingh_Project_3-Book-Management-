@@ -3,7 +3,7 @@
 Members-
  1.Vipul VijayVargiya
  2.Ankur Raj
- 3.Rishabh Saxena
+ 3.Rishab Saxena
  4.Hayat Singh
  
  ### Key points
